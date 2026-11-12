@@ -1,8 +1,8 @@
 # PRAKTIKUM 7 – PEMROGRAMAN SERVER-SIDE DENGAN PHP
 
 ## Data Mahasiswa
-- Nama      : M.Ridwan Al Mahri
-- NIM       : 312510157
+- Nama      : Milan Nugroho
+- NIM       : 312510164
 - Kelas     : I251B
 - Matkul    : Pemograman Web
 
